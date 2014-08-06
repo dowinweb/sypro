@@ -1,6 +1,6 @@
 sypro
 =====
-下载完成后输入一下命令：
+下载完成后输入以下命令：
 cd /sypro
 mvn eclipse:eclipse
 就可以导入到编辑器里运行了
