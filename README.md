@@ -1,7 +1,7 @@
 sypro
 =====
-下载完成后输入以下命令：
-cd /sypro
+下载完成后输入以下命令：  
+cd /sypro  
 mvn eclipse:eclipse
 就可以导入到编辑器里运行了
 在mysql里导入sql脚本，本脚本会制动创建数据库和表
